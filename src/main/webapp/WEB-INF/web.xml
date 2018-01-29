@@ -19,7 +19,7 @@
     <servlet-class>cn.zzt.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>HelloServlet66666666</servlet-name>
+    <servlet-name>HelloServlet66666666777</servlet-name>
     <url-pattern>/HelloServlet</url-pattern>
   </servlet-mapping>
 </web-app>
